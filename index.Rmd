@@ -1,0 +1,17 @@
+--- 
+title: "a minimal bookdown lab notebook"
+author: "Xavier Capaldi, Harrisonn Griffin"
+date: "`r Sys.Date()`"
+site: bookdown::bookdown_site
+documentclass: book
+bibliography: [book.bib]
+biblio-style: apalike
+link-citations: yes
+github-repo: harryturr/lab_notebook
+
+description: "a very simple lab notebook template."
+---
+
+# Preface {-}
+
+This lab notebook renders simple R Markdown documents into a simple, yet beautiful, html lab notebook.
