@@ -1,0 +1,6 @@
+book_filename: "lab-notebook"
+chapter_name: "Date:  "
+repo: https://github.com/harryturr/lab_notebook
+output_dir: docs
+clean: [packages.bib, bookdown.bbl]
+new_session: yes
